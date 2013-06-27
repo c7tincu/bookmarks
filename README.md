@@ -1,7 +1,6 @@
-bookmarks
+[Bookmarks](http://cristiantincu.github.io/bookmarks/)
 ===============================================================================
 
-http://cristiantincu.github.io/bookmarks/
 
 
 License
