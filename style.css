@@ -1,0 +1,4 @@
+abbr {
+  text-transform: lowercase;
+  font-variant: small-caps;
+}
